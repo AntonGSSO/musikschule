@@ -1,0 +1,26 @@
+h1      { 
+           color:            rgb(255, 0, 0);
+           background-color: yellow;
+           text-align: left;
+        }
+h2      {   color: blue;
+            text-align: center;
+        }
+body    {   background-color: silver;
+            font-family: Arial;
+            text-align: center;
+        
+        }
+ol      {   text-align: center;
+            list-style-type: lower-alpha;
+            list-style-position: inside;
+        }
+.box    {   width: 200px;
+            height: auto;
+            padding: 5%;
+            border: 1px solid;
+            margin: 5%;
+            background-color: yellow;
+            text-align: left;
+        }
+        
