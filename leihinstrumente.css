@@ -1,0 +1,31 @@
+h1  {   color: blue;
+        font-family: Arial;
+}
+body{   background-color: silver;
+        font-family: arial;
+        text-align: center;
+}
+table{  width: 40%;
+        border-collapse: collapse;
+        margin: auto;
+
+}
+th  {   background-color: blue;
+        color: yellow;
+        border: 1px solid;
+        border-color: yellow;
+}
+td  {   border: 1px solid;
+        border-color: black;
+
+}
+.gerade {   background-color: cyan;
+           
+}
+.ungerade { background-color: lightblue;
+           
+}
+tr:hover {  background-color: red;
+            color: white;
+
+}
